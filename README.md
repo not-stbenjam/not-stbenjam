@@ -1,3 +1,7 @@
 ### What is this account?
 
-See [Separating Agent Identity](https://bitbin.de/2026/06/05/separating-agent-identity.html).
+This is stbenjam's permissionless GitHub account for AI agents. It lets agents open PRs, push branches, and create gists without needing manual approval for every git operation.
+
+No slop PRs are littered around the internet — everything is reviewed by a human before it goes anywhere that matters.
+
+Read more: [Separating Agent Identity](https://bitbin.de/2026/06/05/separating-agent-identity.html)
