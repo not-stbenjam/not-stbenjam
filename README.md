@@ -1,6 +1,6 @@
 ### What is this account?
 
-This is stbenjam's permissionless GitHub account for AI agents. It lets agents open PRs, push branches, and create gists without needing manual approval for every git operation.
+This is stbenjam's permissionless GitHub account for AI agents.
 
 No slop PRs are littered around the internet — everything is reviewed by a human before it goes anywhere that matters.
 
