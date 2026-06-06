@@ -1,7 +1,11 @@
-### What is this account?
+## What is this account?
 
-This is stbenjam's unprivileged GitHub account for AI agents.
+This is **stbenjam’s fully unprivileged GitHub account** for AI agents.  
 
-No slop PRs are littered around the internet — everything is reviewed by a human before it goes anywhere that matters.
+All code is reviewed by a human before being submitted to community projects.
 
-Read more: [Separating Agent Identity](https://bitbin.de/2026/06/05/separating-agent-identity.html)
+## **Why a separate account?**  
+
+Keeping AI-agent activity separate makes authorship, review, and accountability clearer.
+
+📖 Read more: [Separating Agent Identity](https://bitbin.de/2026/06/05/separating-agent-identity.html)
