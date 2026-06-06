@@ -1,6 +1,6 @@
 ## What is this account?
 
-This is **stbenjam’s fully unprivileged GitHub account** for AI agents.  
+This is **[@stbenjam](https://github.com/stbenjam)’s fully unprivileged GitHub account** for AI agents.  
 
 All code is reviewed by a human before being submitted to community projects.
 
